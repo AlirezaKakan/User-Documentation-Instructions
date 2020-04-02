@@ -8,11 +8,10 @@ permalink: /
 
 # Introduction
 
-This document is written for those students who are new to Learning Hub. There are three essential tasks that students should know who are using Learning Hub.   
-Learning Hub is a learning management system platform, and it is cloud-based and used by schools, higher educational institutes.
+This document is written for those students who are new to Learning Hub. There are three essential tasks that students should know who are using Learning Hub. Learning Hub has two parts: instructors and students.  
+These instructions only cover three basic and essential tasks that students should know when using Learning Hub.
 
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+Learning Hub is a learning management system platform, and it is cloud-based and used by schools, higher educational institutions, universities, etc. where students can submit their work, participate in online class acitivities, join the virtual classrooms, etc.
 
 ---
 
