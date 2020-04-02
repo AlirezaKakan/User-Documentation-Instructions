@@ -24,5 +24,9 @@ Learning Hub is a learning management system platform, and it is cloud-based and
 
 ## Who should read this?
 
-## Supprted Browsers
+
+## Browser Support
+For having a good experience with Learning Hub, make sure that you are using the browsers which are listed below:
+* [Google Chrome](https://www.google.ca/chrome/?brand=CHBD&gclid=CjwKCAjw95D0BRBFEiwAcO1KDPCGzhXgPWj_ONhNJSdhWJbn8BDllMXUqa16JhDzExi-wsm3OQo1DxoCqrsQAvD_BwE&gclsrc=aw.ds)
+* [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox/new/)
 
