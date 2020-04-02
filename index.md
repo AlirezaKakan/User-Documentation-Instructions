@@ -18,10 +18,11 @@ Learning Hub is a learning management system platform, and it is cloud-based and
 
 ## Table of Content
 {: .no_toc .text-delta }
-* [Who should read this?](## Who should read this?)
-* Supported Browsers
+* [Who should read this?](# Who should read this?)
+* [Supported Browsers](# Supported Browsers)
 * 
 
 ## Who should read this?
-{: .d-inline-block }
+
+## Supprted Browsers
 
