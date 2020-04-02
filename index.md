@@ -2,15 +2,15 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Introduction section "
 permalink: /
 ---
 
-# Learning Hub Instructions for Users
-{: .fs-9 }
+# Introduction
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+This document is written for those students who are new to Learning Hub. There are three essential tasks that students should know who are using Learning Hub. 
+Learning Hub is a learning management system platform, and it is cloud-based and used by schools, higher educational institutes.
+
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
