@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Task 2
+title: Assignment
 nav_order: 9
 ---
 
-# Task 2
+# Assignment
 {: .no_toc }
 
 
-In this section, you will be able to create an x using y.
+In this section you will be able to submit your assignment.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -19,9 +19,10 @@ In this section, you will be able to create an x using y.
 
 ---
 
-## Heading 1
+## 1. Select the course
 
-random text
+In the dashboard of your account. There is a **My Courses** section which contains the list of your courses group by different semesters.
+Select the semester that you are attending right now and find the course that you want to submit the assignment for.
 
 ## Heading 2
 
