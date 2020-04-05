@@ -55,10 +55,15 @@ In this part, you will have access to questions. There will be three kinds of qu
 There is a list of questions on the left side of the page which will let you have access to each question by clicking on them. Also, it will let you see the status of the questions whether you have answered them or not.
 
 
+  ![Take Quiz](https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/take-quiz.png?raw=true "Take Quiz")
+
 ![Auto Save][Note]
 Note: You do not need to save anything. Your quiz will save automatically after you answer each question.
 
+At the end of the quiz, you will be able to find **Submit Quiz** button. By clicking on that, you will see you **Exam Review** before the final submission.
 
+![Auto Save][Note]
+Note: In the multi-pages exam, you will need to go to the last page of the exam for finding the **Submit Quiz** button.
 
 
 1. Add a File
