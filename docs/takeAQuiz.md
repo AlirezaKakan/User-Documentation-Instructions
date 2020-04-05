@@ -49,11 +49,9 @@ You can start the quiz by clicking on **Start Quiz!**.
 
 In this part, you will have access to questions. There will be three kinds of questions:
 
-1. Multiple Choice Questions
-
-  * One Answer
-  * Multiple Answers
-
+1. Multiple Choice Questions  
+  * One Answer  
+  * Multiple Answers  
 2. Descriptive Answer
 
 There is a list of questions on the left side of the page which will let you have access to each question by clicking on them. Also, it will let you see the status of the questions whether you have answered them or not.
