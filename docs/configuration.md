@@ -12,10 +12,10 @@ This section will explain how to join a virtual classroom.
 
 ## Table of contents
 {: .no_toc .text-delta }
-1. [Select the course](#select-the-course)
-2. [Find Virtual Classroom List Page](#find-virtual-classroom-list-page)
-3. [List of Classes](#list-of-classes)
-4. [Enter The Class](#enter-the-class)
+1. [Select the course](#1-select-the-course)
+2. [Find Virtual Classroom List Page](#2-find-virtual-classroom-list-page)
+3. [List of Classes](#3-list-of-classes)
+4. [Enter The Class](#4-enter-the-class)
 
 ---
 
