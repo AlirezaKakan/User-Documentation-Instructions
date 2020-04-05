@@ -48,9 +48,9 @@ The following typographical conventions are used in the instructions:
 **Convention** | **TyepFace** | **Examples**
 --- | --- | ---
 Important sections | **Bold** | **Assingment**, **My Courses**
-Notes | ![square bracket][square-bracket] |
+Notes | ![note][note] |
 Warnings | ![alert][alert] |
 
-[square-bracket] : https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true
+[note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true
 
-[alert] : https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/alert.png?raw=true
+[alert]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/alert.png?raw=true
