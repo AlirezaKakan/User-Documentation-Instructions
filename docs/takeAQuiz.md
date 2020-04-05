@@ -12,7 +12,6 @@ In this section you will be able to Take a quiz.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 1. [Select the course](#1-select-the-course)
 2. [Find Quizzes List Page](#2-find-quizzes-list-page)
