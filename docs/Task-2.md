@@ -45,26 +45,26 @@ Note: You need to upload at least one file for the assignment.
 
 1. Add a File
 
-...It will let you upload any file format from different places:
-..* My Computer (Your own computer)
-..* My Locker
-..* Group Locker
-..* ePortfolio
+⋅⋅⋅It will let you upload any file format from different places:
+⋅⋅* My Computer (Your own computer)
+⋅⋅* My Locker
+⋅⋅* Group Locker
+⋅⋅* ePortfolio
 
 2. Record Audio
 
-...It will let you record an audio for the assignment. 
+⋅⋅⋅It will let you record an audio for the assignment. 
 
-...![Permission Need][Note]
-...Note: Your browser may need your permission for using your microphone. You need to accept for recording online.
+⋅⋅⋅![Permission Need][Note]
+⋅⋅⋅Note: Your browser may need your permission for using your microphone. You need to accept for recording online.
 
 
 3. Record Video
 
-...It will let you record video for the assignment.
+⋅⋅⋅It will let you record video for the assignment.
 
-...![Permission Need][Note]
-...Note: Your browser may need your permission for using your webcam. You need to accept for recording video online.
+⋅⋅⋅![Permission Need][Note]
+⋅⋅⋅Note: Your browser may need your permission for using your webcam. You need to accept for recording video online.
 
 
 
