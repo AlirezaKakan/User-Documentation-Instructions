@@ -51,6 +51,7 @@ Before you start, make sure you will need to:
 
 ## Typographical Convention
 The following typographical conventions are used in the instructions:  
+
 **Convention** | **TyepFace** | **Examples**
 --- | --- | ---
 Important sections | **Bold** | **Assingment**, **My Courses**
