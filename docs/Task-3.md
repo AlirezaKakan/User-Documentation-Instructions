@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Quiz
+title: Take a Quiz
 nav_order: 11
 ---
 
-# Quiz
+# Take a Quiz
 {: .no_toc }
 
 
