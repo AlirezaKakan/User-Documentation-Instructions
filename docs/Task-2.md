@@ -14,7 +14,7 @@ In this section you will be able to submit your assignment.
 ## Table of contents
 {: .no_toc .text-delta }
 
-TOC
+1. TOC
 {:toc}
 
 ---
@@ -45,11 +45,11 @@ Note: You need to upload at least one file for the assignment.
 
 1. Add a File
 
-.  It will let you upload any file format from different places:
-. * My Computer (Your own computer)
-. * My Locker
-. * Group Locker
-. * ePortfolio
+   It will let you upload any file format from different places:
+  * My Computer (Your own computer)
+  * My Locker
+  * Group Locker
+  * ePortfolio
 
 2. Record Audio
 
@@ -71,6 +71,8 @@ You can also add any comment for your file in the **Comments Section**.
 
 You need to click on submit for moving to the **Reivew Page**.
 
+![Attention][Alert]
+Attention: There will be no submission in this step and you need to finalize your submission in the next step.
 
 ## 5. Final Submission
 
@@ -83,4 +85,5 @@ Note: You should receive and submission receipt on your **Learning Hub Mailbox**
 
 [Note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true "Note"
 
+[Alert]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/alert.png?raw=true "Alert"
   
