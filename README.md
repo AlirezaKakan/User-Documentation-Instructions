@@ -1,68 +1,40 @@
-<p align="right">
-    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions"><img src="https://github.com/pmarsceill/just-the-docs/workflows/CI/badge.svg" alt="Build status"></a>
-</p>
-<br><br>
-<p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
-</p>
+# Learning Hub Tutorial
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+---
 
-## Installation
+Learning Hub is a learning management system platform, and it is cloud-based and used by schools, higher educational institutions, universities, etc. where students can submit their work, participate in online class acitivities, join the virtual classrooms, etc.
 
-Add this line to your Jekyll site's Gemfile:
+## Getting Started
 
-```ruby
-gem "just-the-docs"
-```
+This tutorial covers three basic and essential tasks for the students who are totally new to the Learning Hub website. By the end of this tutorial, you would be able to:
 
-And add this line to your Jekyll site's `_config.yml`:
+* join virtual classrooms
+* submit an assignment
+* take a quiz
 
-```yaml
-theme: just-the-docs
-```
+### Join Virtual Classroom
 
-And then execute:
+This section will explain how to join a virtual classroom step-by-step.
 
-    $ bundle
+### Submit an Assignment
 
-Or install it yourself as:
+In this section, you will learn how to submit an assignment on Learning Hub for the specific course.
 
-    $ gem install just-the-docs
+### Take a Quiz
 
-## Usage
+This explain determines each step for taking the quiz on Learning Hub.
 
-[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
+## Prerequisites
 
-## Contributing
+Before you start, make sure you will need to:
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+* Have a good internet connection
+* Have access to the PC, laptop, tablet, or mobile devices
+* Be enrolled in an institution which works with Learning Hub
 
-### Submitting code changes:
+## Authors
 
-- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
-- Ensure all CI tests pass
-- Await code review
-- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
+* Parsa Manouchehrian - [parsa-manouchehrian](https://github.com/parsa-manouchehrian)
+* Alireza Kakan - [AlirezaKakan](https://github.com/AlirezaKakan)
 
-### Design and development principles of this theme:
 
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
