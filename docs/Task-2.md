@@ -29,5 +29,6 @@ Select the semester that you are attending right now and find the course that yo
 In the Course page, there is a menu that you can find **Activities** there. By Clicking on the **Activities** you can find the **Assignment** option. 
 Select **Assignment** to get into the **Assignments Page**.
 
+  ![Find Assignments](https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/Assignments.png?raw=true "Find Assignments")
 
 random text
