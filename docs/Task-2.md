@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Assignment
+title: Submit an Assignment
 nav_order: 9
 ---
 
-# Assignment
+# Submit an Assignment
 {: .no_toc }
 
 
@@ -14,7 +14,7 @@ In this section you will be able to submit your assignment.
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+TOC
 {:toc}
 
 ---
