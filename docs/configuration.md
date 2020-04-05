@@ -1,14 +1,13 @@
 ---
 layout: default
-title: Task 1
+title: Join a Virtual Classroom
 nav_order: 2
 ---
 
-# Configuration
+# Join a Virtual Classroom
 {: .no_toc }
 
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+This section will explain how to join a virtual classroom.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -20,69 +19,29 @@ Just the Docs has some specific configuration parameters that can be defined in 
 ---
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
-## Site logo
+## 1. Select the Course
+In the dashboard of your account. There is a **My Courses** section which contains the list of your courses group by different semesters. Select the semester that you are attending right now and find the course that you want to submit the assignment for.
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+## 2. Find Virtual Classroom List Page
+After you have entered to the course page, by clicking on the **Activities**, you can find the **Virtual Classroom** section. 
 
-## Search
+![Virtual Classroom](https://raw.githubusercontent.com/AlirezaKakan/User-Documentation-Instructions/gh-pages/assets/images/VirtualClassroom.png)
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+## 3. List of Classes
+After clicking on the **Virtual Classroom**, you will be redirected to the page which contains the list of online classes. On the right side of the table, you can see the date of the classes, and next to the date of the classes, there is a button which redirects you to the page where you can join the class.
 
-# Enable support for hyphenated search words:
-search_tokenizer_separator: /[\s/]+/
+![List of Classes](https://raw.githubusercontent.com/AlirezaKakan/User-Documentation-Instructions/gh-pages/assets/images/EnterClass.png)
 
-```
+## 4. Enter The Class
+When you entered the page for entering the class, there is a blue button, **Enter When Started**. If you click on that button, you will enter the class.  
 
-## Aux links
+![before joining point 1][Note] Note: When you entered to the class, there is a browser permissions on the top of the page. Make sure to **allow for your webcam and microphone**.
 
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-```
+![before joining point 2][Note] Note: Share your microphone and webcam **only when needed**.
 
-## Heading anchor links
 
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false/nil
-heading_anchors: true
-```
 
-## Footer content
+[Note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true "Note"
 
-```yaml
-# Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
-```
-
-## Color scheme
-
-```yaml
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-
-<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
-
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
-
-## Google Analytics
-
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-```
+[Alert]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/alert.png?raw=true "Alert"
