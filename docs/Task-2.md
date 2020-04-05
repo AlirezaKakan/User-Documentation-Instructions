@@ -14,7 +14,7 @@ In this section you will be able to submit your assignment.
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+TOC
 {:toc}
 
 ---
@@ -53,18 +53,18 @@ Note: You need to upload at least one file for the assignment.
 
 2. Record Audio
 
-.  It will let you record an audio for the assignment. 
+   It will let you record an audio for the assignment. 
 
-.  ![Permission Need][Note]
-.  Note: Your browser may need your permission for using your microphone. You need to accept for recording online.
+   ![Permission Need][Note]
+   Note: Your browser may need your permission for using your microphone. You need to accept for recording online.
 
 
 3. Record Video
 
-.  It will let you record video for the assignment.
+   It will let you record video for the assignment.
 
-.  ![Permission Need][Note]
-.  Note: Your browser may need your permission for using your webcam. You need to accept for recording video online.
+   ![Permission Need][Note]
+   Note: Your browser may need your permission for using your webcam. You need to accept for recording video online.
 
 
 You can also add any comment for your file in the **Comments Section**.
