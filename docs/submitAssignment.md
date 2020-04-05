@@ -13,11 +13,11 @@ In this section you will be able to submit your assignment.
 
 ## Table of contents
 {: .no_toc .text-delta }
-1. [Select the course](#select-the-course)
-2. [Find Assignments List Page](#find-assignments-list-page)
-3. [Select the Assignment](#select-the-assignment)
-4. [Submit Assignment](#submit-assignment)
-5. [Final Submission](#final-submission)
+1. [Select the course](#1-select-the-course)
+2. [Find Assignments List Page](#2-find-assignments-list-page)
+3. [Select the Assignment](#3-select-the-assignment)
+4. [Submit Assignment](#4-submit-assignment)
+5. [Final Submission](#5-final-submission)
 
 ---
 
