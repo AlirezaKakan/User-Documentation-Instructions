@@ -62,7 +62,5 @@ Warnings | ![alert][alert] |
 [alert]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/alert.png?raw=true  
 
 
----
-
 ## Time Required
 The approximate time to go thruogh each task or instruction is 10 - 20 minutes, and it depends on the instruction you are following.
