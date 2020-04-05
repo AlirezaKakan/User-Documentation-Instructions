@@ -2,8 +2,7 @@
 layout: default
 title: Submit an Assignment
 nav_order: 3
-has_children: true
-permalink: /docs/ui-components
+permalink: /
 ---
 
 # Submit an Assignment
