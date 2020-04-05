@@ -13,9 +13,11 @@ In this section you will be able to submit your assignment.
 
 ## Table of contents
 {: .no_toc .text-delta }
-
-* TOC
-{:toc}
+1. [Select the course](#select-the-course)
+2. [Find Assignments List Page](#find-assignments-list-page)
+3. [Select the Assignment](#select-the-assignment)
+4. [Submit Assignment](#submit-assignment)
+5. [Final Submission](#final-submission)
 
 ---
 
@@ -87,4 +89,8 @@ Note: You should receive and submission receipt on your **Learning Hub Mailbox**
 [Note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true "Note"
 
 [Alert]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/alert.png?raw=true "Alert"
+
+---
+
+Keep up the good work. Now, you know how to submit the assignment.
   
