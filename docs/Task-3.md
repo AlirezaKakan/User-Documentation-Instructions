@@ -35,9 +35,11 @@ Select **Quizzes** to get into the **Quizzes List Page**.
 
 In the **Quizzes List Page**, you can see the list of your quizzes that you have been done before or you need to do in the future. Find the quiz that you want to take among the list. By clicking on that you will the **Quiz Details Page**.
 
-## 4. Submit Assignment
+## 4. Start Quiz
 
-In the **Assignment Page**, you can find three different ways for uploading file. 
+In the **Quiz Details Page**, you can see the quiz information like Current Time and User, Quiz Period, Time Allowed, and attempts.
+
+You can start the quiz by clicking on **Start Quiz!**.
 
 ![Permission Need][Note]
 Note: You need to upload at least one file for the assignment.
