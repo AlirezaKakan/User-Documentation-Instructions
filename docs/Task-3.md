@@ -66,46 +66,16 @@ At the end of the quiz, you will be able to find **Submit Quiz** button. By clic
 Note: In the multi-pages exam, you will need to go to the last page of the exam for finding the **Submit Quiz** button.
 
 
-1. Add a File
+## 6. Exam Review
 
-   It will let you upload any file format from different places:
-   
-  * My Computer (Your own computer)
-  * My Locker
-  * Group Locker
-  * ePortfolio
-
-2. Record Audio
-
-   It will let you record an audio for the assignment. 
-
-   ![Permission Need][Note]
-   Note: Your browser may need your permission for using your microphone. You need to accept for recording online.
+In the **Exam Review**, you will see the list of the questions and you did not answer. If you do not have any or you want to submit without answering them you can click on **Submit Quiz** button again for final submission.
 
 
-3. Record Video
+## 6. Quiz Submissions
 
-   It will let you record video for the assignment.
+You may see the result of your quiz in this part if the instructor has been provided the answers. If you took an multi-attempts quiz, you will see your highest attempt score with your current score.
 
-   ![Permission Need][Note]
-   Note: Your browser may need your permission for using your webcam. You need to accept for recording video online.
-
-
-You can also add any comment for your file in the **Comments Section**.
-
-You need to click on submit for moving to the **Reivew Page**.
-
-![Attention][Alert]
-Attention: There will be no submission in this step and you need to finalize your submission in the next step.
-
-## 5. Final Submission
-
-In the **Reivew Page**, you can see the details of the assingment for reivew. 
-
-By clicking on **Done**, you will submit your assingment.
-
-![Permission Need][Note]
-Note: You should receive and submission receipt on your **Learning Hub Mailbox** after the submission.
+By clicking on **Done** or **Close** button, you are done with the quiz and you will go back to your attempts list of the quiz.
 
 [Note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true "Note"
 
