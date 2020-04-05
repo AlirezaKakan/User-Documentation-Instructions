@@ -1,6 +1,6 @@
 ---
-layout: Take a Quiz
-title: Utilities
+layout: default
+title: Take a Quiz
 nav_order: 4
 ---
 
