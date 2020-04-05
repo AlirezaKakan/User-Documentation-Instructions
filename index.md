@@ -22,6 +22,7 @@ Learning Hub is a learning management system platform, and it is cloud-based and
 * [Browser Support](#browser-support)
 * [Prerequisites](#prerequisites)
 * [Typographical Convention](#typographical-convention)
+* [Time Required](#time-required)
 
 ## Who should read this
 This short toturial is for the students who are completely new to Learning Hub. At the first glance, Learning Hub seems easy-to-use; however, for the students who are not familiar with this website, it can be confusing for them.
