@@ -12,10 +12,14 @@ In this section you will be able to Take a quiz.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
-{: .no_toc .text-delta }
 
-1. TOC
-{:toc}
+{: .no_toc .text-delta }
+1. [Select the course](#1-select-the-course)
+2. [Find Quizzes List Page](#2-find-quizzes-list-page)
+3. [Select the Quiz](#3-select-the-quiz)
+4. [Start Quiz](#4-start-quiz)
+5. [Take Quiz](#5-take-quiz)
+6. [Submit Quiz](#6-submit-quiz)
 
 ---
 
@@ -71,7 +75,7 @@ Note: In the multi-pages exam, you will need to go to the last page of the exam 
 In the **Quiz Review**, you will see the list of the questions and you did not answer. If you do not have any or you want to submit without answering them you can click on **Submit Quiz** button again for final submission.
 
 
-## 6. Quiz Submissions
+## 6. Submit Quiz
 
 You may see the result of your quiz in this part if the instructor has been provided the answers. If you took an multi-attempts quiz, you will see your highest attempt score with your current score.
 
