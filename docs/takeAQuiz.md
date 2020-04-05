@@ -18,7 +18,8 @@ In this section you will be able to Take a quiz.
 3. [Select the Quiz](#3-select-the-quiz)
 4. [Start Quiz](#4-start-quiz)
 5. [Take Quiz](#5-take-quiz)
-6. [Submit Quiz](#6-submit-quiz)
+6. [Quiz Review](#6-quiz-review)
+7. [Submit Quiz](#7-submit-quiz)
 
 ---
 
@@ -74,7 +75,7 @@ Note: In the multi-pages exam, you will need to go to the last page of the exam 
 In the **Quiz Review**, you will see the list of the questions and you did not answer. If you do not have any or you want to submit without answering them you can click on **Submit Quiz** button again for final submission.
 
 
-## 6. Submit Quiz
+## 7. Submit Quiz
 
 You may see the result of your quiz in this part if the instructor has been provided the answers. If you took an multi-attempts quiz, you will see your highest attempt score with your current score.
 
