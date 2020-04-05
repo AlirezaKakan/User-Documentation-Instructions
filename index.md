@@ -18,10 +18,10 @@ Learning Hub is a learning management system platform, and it is cloud-based and
 
 ## Table of Content
 {: .no_toc .text-delta }
-* [Who should read this?](#who-should-read-this)
+* [Who should read this](#who-should-read-this)
 * [Browser Support](#browser-support)
 * [Prerequisites](#prerequisites)
-* [Typographical Convention](#Typographical-Convention)
+* [Typographical Convention](#typographical-convention)
 
 ## Who should read this
 This short toturial is for the students who are completely new to Learning Hub. At the first glance, Learning Hub seems easy-to-use; however, for the students who are not familiar with this website, it can be confusing for them.
@@ -31,10 +31,14 @@ This toturial guides the students to get better at using Learning Hub, and by th
 * submit an assignment
 * take a quiz
 
+---
+
 ## Browser Support
 For having a good experience with Learning Hub, make sure that you are using the browsers which are listed below:
 * [Google Chrome](https://www.google.ca/chrome/?brand=CHBD&gclid=CjwKCAjw95D0BRBFEiwAcO1KDPCGzhXgPWj_ONhNJSdhWJbn8BDllMXUqa16JhDzExi-wsm3OQo1DxoCqrsQAvD_BwE&gclsrc=aw.ds)
 * [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox/new/)
+
+---
 
 ## Prerequisites
 Before you start, make sure you will need to:
@@ -42,9 +46,10 @@ Before you start, make sure you will need to:
 * Have access to the PC, laptop, tablet, or mobile devices
 * Be enrolled in an institution which works with Learning Hub
 
-## Typographical Convention
-The following typographical conventions are used in the instructions:
+---
 
+## Typographical Convention
+The following typographical conventions are used in the instructions:  
 **Convention** | **TyepFace** | **Examples**
 --- | --- | ---
 Important sections | **Bold** | **Assingment**, **My Courses**
@@ -54,3 +59,8 @@ Warnings | ![alert][alert] |
 [note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true
 
 [alert]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/alert.png?raw=true
+
+---
+
+## Time Required
+The approximate time to go thruogh each task or instruction is 10 - 20 minutes, and it depends on the instruction you are following.
