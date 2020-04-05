@@ -60,15 +60,15 @@ There is a list of questions on the left side of the page which will let you hav
 ![Auto Save][Note]
 Note: You do not need to save anything. Your quiz will save automatically after you answer each question.
 
-At the end of the quiz, you will be able to find **Submit Quiz** button. By clicking on that, you will see you **Exam Review** before the final submission.
+At the end of the quiz, you will be able to find **Submit Quiz** button. By clicking on that, you will see you **Quiz Review** before the final submission.
 
 ![Auto Save][Note]
 Note: In the multi-pages exam, you will need to go to the last page of the exam for finding the **Submit Quiz** button.
 
 
-## 6. Exam Review
+## 6. Quiz Review
 
-In the **Exam Review**, you will see the list of the questions and you did not answer. If you do not have any or you want to submit without answering them you can click on **Submit Quiz** button again for final submission.
+In the **Quiz Review**, you will see the list of the questions and you did not answer. If you do not have any or you want to submit without answering them you can click on **Submit Quiz** button again for final submission.
 
 
 ## 6. Quiz Submissions
