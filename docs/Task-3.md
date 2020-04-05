@@ -41,8 +41,24 @@ In the **Quiz Details Page**, you can see the quiz information like Current Time
 
 You can start the quiz by clicking on **Start Quiz!**.
 
-![Permission Need][Note]
-Note: You need to upload at least one file for the assignment.
+## 5. Take Quiz
+
+In this part, you will have access to questions. There will be three kinds of questions:
+
+1. Multiple Choice Questions
+
+  * One Answer
+  * Multiple Answers
+
+2. Descriptive Answer
+
+There is a list of questions on the left side of the page which will let you have access to each question by clicking on them. Also, it will let you see the status of the questions whether you have answered them or not.
+
+
+![Auto Save][Note]
+Note: You do not need to save anything. Your quiz will save automatically after you answer each question.
+
+
 
 
 1. Add a File
