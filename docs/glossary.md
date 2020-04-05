@@ -4,6 +4,10 @@ title: Glossary
 nav_order: 6
 ---
 
+# Glossary
+
+---
+
 **Virtual Classroom :** An environment where online classes are held by Bongo application.
 
 **Browser Permissions :** A section in each browser where you can allow the browser to use different tools such as webcam, microphone, etc. of your device.
