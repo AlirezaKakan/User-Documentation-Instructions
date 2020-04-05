@@ -39,8 +39,9 @@ In the **Assignments List Page**, you can see the list of your assignments that 
 
 In the **Assignment Page**, you can find three different ways for uploading file. 
 
-Note: You need to upload at least one file for the assignment.
 ![Permission Need][Note]
+Note: You need to upload at least one file for the assignment.
+
 
 1. Add a File
 
@@ -54,15 +55,17 @@ Note: You need to upload at least one file for the assignment.
 
 ...It will let you record an audio for the assignment. 
 
+...![Permission Need][Note]
 ...Note: Your browser may need your permission for using your microphone. You need to accept for recording online.
-![Permission Need][Note]
+
 
 3. Record Video
 
 ...It will let you record video for the assignment.
 
+...![Permission Need][Note]
 ...Note: Your browser may need your permission for using your webcam. You need to accept for recording video online.
-![Permission Need][Note]
+
 
 
 You can also add any comment for your file in the **Comments Section**.
@@ -70,5 +73,5 @@ You can also add any comment for your file in the **Comments Section**.
 You need to click on submit for moving to the **Reivew Page**.
 
 
-[Note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning.png?raw=true "Note"
+[Note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true "Note"
   
