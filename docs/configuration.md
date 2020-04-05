@@ -12,9 +12,10 @@ This section will explain how to join a virtual classroom.
 
 ## Table of contents
 {: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+1. [Select the course](#select-the-course)
+2. [Find Virtual Classroom List Page](#find-virtual-classroom-list-page)
+3. [List of Classes](#list-of-classes)
+4. [Enter The Class](#enter-the-class)
 
 ---
 
@@ -45,3 +46,7 @@ When you entered the page for entering the class, there is a blue button, **Ente
 [Note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true "Note"
 
 [Alert]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/alert.png?raw=true "Alert"
+
+---
+
+Amazing! You have learned how to join a virtual classroom.
