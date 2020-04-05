@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Take a Quiz2
+title: Take a Quiz
 nav_order: 4
 ---
 
