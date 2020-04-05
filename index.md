@@ -52,4 +52,5 @@ Notes | ![square bracket][square-bracket] |
 Warnings | ![alert][alert] |
 
 [square-bracket] : https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true
+
 [alert] : https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/alert.png?raw=true
