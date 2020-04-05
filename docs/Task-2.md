@@ -46,6 +46,7 @@ Note: You need to upload at least one file for the assignment.
 1. Add a File
 
    It will let you upload any file format from different places:
+   
   * My Computer (Your own computer)
   * My Locker
   * Group Locker
