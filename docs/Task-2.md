@@ -70,5 +70,5 @@ You can also add any comment for your file in the **Comments Section**.
 You need to click on submit for moving to the **Reivew Page**.
 
 
-[Note]: (https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning.png?raw=true "Note")
+[Note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning.png?raw=true "Note"
   
