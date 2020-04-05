@@ -2,7 +2,6 @@
 layout: default
 title: Submit an Assignment
 nav_order: 3
-permalink: /
 ---
 
 # Submit an Assignment
