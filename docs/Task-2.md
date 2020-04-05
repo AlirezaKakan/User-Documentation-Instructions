@@ -14,7 +14,7 @@ In this section you will be able to submit your assignment.
 ## Table of contents
 {: .no_toc .text-delta }
 
-TOC
+* TOC
 {:toc}
 
 ---
