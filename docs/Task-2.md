@@ -45,27 +45,26 @@ Note: You need to upload at least one file for the assignment.
 
 1. Add a File
 
-⋅⋅⋅It will let you upload any file format from different places:
-⋅⋅* My Computer (Your own computer)
-⋅⋅* My Locker
-⋅⋅* Group Locker
-⋅⋅* ePortfolio
+.  It will let you upload any file format from different places:
+. * My Computer (Your own computer)
+. * My Locker
+. * Group Locker
+. * ePortfolio
 
 2. Record Audio
 
-⋅⋅⋅It will let you record an audio for the assignment. 
+.  It will let you record an audio for the assignment. 
 
-⋅⋅⋅![Permission Need][Note]
-⋅⋅⋅Note: Your browser may need your permission for using your microphone. You need to accept for recording online.
+.  ![Permission Need][Note]
+.  Note: Your browser may need your permission for using your microphone. You need to accept for recording online.
 
 
 3. Record Video
 
-⋅⋅⋅It will let you record video for the assignment.
+.  It will let you record video for the assignment.
 
-⋅⋅⋅![Permission Need][Note]
-⋅⋅⋅Note: Your browser may need your permission for using your webcam. You need to accept for recording video online.
-
+.  ![Permission Need][Note]
+.  Note: Your browser may need your permission for using your webcam. You need to accept for recording video online.
 
 
 You can also add any comment for your file in the **Comments Section**.
@@ -73,5 +72,15 @@ You can also add any comment for your file in the **Comments Section**.
 You need to click on submit for moving to the **Reivew Page**.
 
 
+## 5. Final Submission
+
+In the **Reivew Page**, you can see the details of the assingment for reivew. 
+
+By clicking on **Done**, you will submit your assingment.
+
+![Permission Need][Note]
+Note: You should receive and submission receipt on your **Learning Hub Mailbox** after the submission.
+
 [Note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true "Note"
+
   
