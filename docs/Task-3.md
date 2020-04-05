@@ -77,6 +77,12 @@ You may see the result of your quiz in this part if the instructor has been prov
 
 By clicking on **Done** or **Close** button, you are done with the quiz and you will go back to your attempts list of the quiz.
 
+
+---
+
+Congratulation. Now, you are able to take quizzes on Learning Hub.
+
+
 [Note]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/warning-24.png?raw=true "Note"
 
 [Alert]: https://github.com/AlirezaKakan/User-Documentation-Instructions/blob/gh-pages/assets/images/alert.png?raw=true "Alert"
